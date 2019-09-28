@@ -187,3 +187,4 @@ plt.plot(range(len(plt_train_loss)), plt_train_loss)
 plt.plot(range(len(plt_valid_loss)), plt_valid_loss)
 plt.legend()
 plt.show()
+
